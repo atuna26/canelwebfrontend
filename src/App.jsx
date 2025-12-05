@@ -8,7 +8,7 @@ import {
 } from "react-router-dom";
 import Main from "./homeLandingPage/components/Main";
 import LoginPage from "./LoginPage";
-import AdminPanel from "./AdminPanel";
+import AdminPanel from "./adminPanel";
 import styles from "./style";
 import { Navbar } from "./homeLandingPage/components";
 import RegisterPage from "./RegisterPage";
