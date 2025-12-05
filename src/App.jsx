@@ -15,7 +15,7 @@ import RegisterPage from "./RegisterPage";
 import { useDispatch, useSelector } from "react-redux";
 import AllProducts from "./allProducts";
 import { useEffect, useState } from "react";
-import AdminNavbar from "./adminPanel/adminNavbar";
+import AdminNavbar from "./adminPanel/AdminNavbar";
 import EventList from "./adminPanel/eventList";
 import ProductList from "./adminPanel/ProductList";
 import NewProduct from "./adminPanel/newProduct";
