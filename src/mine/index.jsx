@@ -1,10 +1,10 @@
 import { useState } from "react";
-import ocakA from "../assets/ocakA.jpeg";
-import ocakB from "../assets/ocakB.jpeg";
-import ocakC from "../assets/ocakC.jpeg";
-import ocakD from "../assets/ocakD.jpeg";
-import ocakE from "../assets/ocakE.jpeg";
-import ocakF from "../assets/ocakF.jpeg";
+import ocakA from "../assets/OcakA.jpeg";
+import ocakB from "../assets/OcakB.jpeg";
+import ocakC from "../assets/OcakC.jpeg";
+import ocakD from "../assets/OcakD.jpeg";
+import ocakE from "../assets/OcakE.jpeg";
+import ocakF from "../assets/OcakF.jpeg";
 import ocakPhoto from "../assets/ocakphoto.jpg";
 
 const Mine = () => {
