@@ -1,9 +1,9 @@
 import { useState } from "react";
 import factoryPhoto from "../assets/factoryPhoto.jpg";
-import bandirmaA from "../assets/bandirmaA.jpg";
-import bandirmaB from "../assets/bandirmaB.jpg";
+import bandirmaA from "../assets/BandirmaA.jpg";
+import bandirmaB from "../assets/BandirmaB.jpg";
 import bandirmaC from "../assets/bandirmaC.jpg";
-import bandirmaD from "../assets/bandirmaD.jpg";
+import bandirmaD from "../assets/BandirmaD.jpg";
 import bandirmaE from "../assets/bandirmaE.jpg";
 import bandirmaF from "../assets/bandirmaF.jpg";
 import bandirmaG from "../assets/bandirmaG.jpg";
